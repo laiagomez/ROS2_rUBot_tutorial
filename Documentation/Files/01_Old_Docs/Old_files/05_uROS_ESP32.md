@@ -165,4 +165,4 @@ Run a micro-ROS agent
 ros2 run micro_ros_agent micro_ros_agent udp4 --port 8888
 ```
 
-Now press the reset button and open a new terminal and you can see in the topic list: /freertos_int32_publisher
+Now press the reset button and open a new terminal. You can see in the topic list: /freertos_int32_publisher
