@@ -20,7 +20,7 @@ Every **Python package** will have the following structure of files and folders:
 
 - setup.py - File containing instructions for how to compile the package.
 
-- setup.cfg - File that defines where the scripts will be installed.
+- setup.cfg - This is a file that defines where the scripts will be installed.
 
 - /<package_name> - This directory will always have the same name as your package. You will put all your Python scripts inside this folder. Note that it already contains an empty __init__.py file.
 
