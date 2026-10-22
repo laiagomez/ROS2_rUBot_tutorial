@@ -208,4 +208,4 @@ Create your first Publisher and Subscriber nodes: https://docs.ros.org/en/foxy/T
 
 ## 5. **Using parameters in a Class**
 
-Detailed tutorial in: https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Using-Parameters-In-A-Class-Python.html
+The detailed tutorial can be found in: https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Using-Parameters-In-A-Class-Python.html
